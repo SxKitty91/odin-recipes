@@ -4,19 +4,25 @@ body {
     background-color: aliceblue;
     color: indigo;
     font-family: Arial, Helvetica, sans-serif;
+    margin: auto ;
+    padding-bottom: 50px;
+    width: 600px;
+    text-align: center;
 }
 
 h1 {
     font-style: italic;
 }
 
-ul {
-font-size: 18px;
+p {
+font-size: 22px;
 color: indigo;
 }
 
-li:hover {
+p:hover {
     color:deepskyblue;
-    font-size: 20px;
-    background-color: #00bfff70;
+    font-size: 24px;
+    background-color: #00bfff33;
+    font-style: italic;
+    font-weight: 600;
 }
